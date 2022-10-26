@@ -13,14 +13,14 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Remove PC-98 Duplicates",
+    name: "Don't click this idk what it does",
     key: "pc98",
-    tooltip: "Check this to remove PC-98 characters with a Windows counterpart."
+    tooltip: "vachina"
   },
   {
-    name: "Remove Non-Girls",
+    name: "Clicky clicky",
     key: "notgirl",
-    tooltip: "Check this to remove all non-female characters."
+    tooltip: "penis"
   }
 ];
 
