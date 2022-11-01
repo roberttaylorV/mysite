@@ -11,16 +11,6 @@ dataSet[dataSetVersion].options = [
       { name: "NFC", key: "NFC" },
       { name: "AFC", key: "AFC" },
     ]
-  },
-  {
-    name: "Don't click this idk what it does",
-    key: "pc98",
-    tooltip: "vachina"
-  },
-  {
-    name: "Clicky clicky",
-    key: "notgirl",
-    tooltip: "penis"
   }
 ];
 
