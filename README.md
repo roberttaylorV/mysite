@@ -1,3 +1,6 @@
+use here
+https://roberttaylorv.github.io/nfl-sorter/
+
 # charasort
 A web based character sorter. Allows users to run through a manual merge sort of their favorite
 characters from a set.
